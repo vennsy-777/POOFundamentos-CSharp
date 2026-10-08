@@ -60,3 +60,6 @@ eduRetangulo.mostrar();
 
 //double apresentar = eduRetangulo.CalcularArea;
 //double apresentar2 = eduRetangulo.CalcularPerimetro;
+
+
+
